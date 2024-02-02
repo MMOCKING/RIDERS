@@ -1,4 +1,5 @@
 # RIDERS: Radar-Infrared Depth Estimation for Robust Sensing
+## Background
 Dense depth recovery is crucial in autonomous driving, serving as a foundational element for obstacle avoidance, 3D object detection, and local path planning. Adverse weather conditions, including haze, dust, rain, snow, and darkness, introduce significant challenges to accurate dense depth estimation, thereby posing substantial safety risks in autonomous driving. These challenges are particularly pronounced for traditional depth estimation methods that rely on short electromagnetic wave sensors, such as visible spectrum cameras and near-infrared LiDAR, due to their susceptibility to diffraction noise and occlusion in such environments.
 To fundamentally overcome this issue, we present a novel approach for robust metric depth estimation by fusing a millimeter-wave Radar and a monocular infrared thermal camera, which are capable of penetrating atmospheric particles and unaffected by lighting conditions.
 ## Pipeline
