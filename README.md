@@ -23,6 +23,9 @@ ZJU-Multispectrum
 ├── output
 │   ├── rcnet_0.1
 │   │   ├── depth_predicted # quasi-dense depth from RC-Net (output threshold = 0.1)
+├── log # store training results
+│   ├── rcnet # store .pth files
+│   ├── SML # store .pth files
 ```
 
 
