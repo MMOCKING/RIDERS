@@ -38,16 +38,21 @@ conda env create -f environment.yaml
 conda activate rc-depth
 ```
 
-Download [ZJU-Multispectrum](https://pan.baidu.com/s/1TGPGjX8XtQf1CyKMqU2v_w?pwd=1897).
+Download [ZJU-Multispectrum](https://pan.baidu.com/s/1TGPGjX8XtQf1CyKMqU2v_w?pwd=1897) 
+and use `val_zju.py` for quick starting.
 
 Sequences for training and validation: 
+```
 ['2023-10-19-19-25-47', '2023-10-20-10-05-18', '2023-10-20-10-21-14',
 '2023-10-20-10-35-20', '2023-10-20-13-56-28', '2023-10-20-14-23-10', 
 '2023-10-20-14-15-25','2023-10-20-14-28-18', '2023-10-20-14-38-17', 
 '2023-10-20-14-53-28']
+```
 
 Sequences for quantitative tests (clear day): 
+```
 ['2023-10-20-10-07-22', '2023-10-20-10-28-46', '2023-10-20-14-35-31']
+```
 
 Other sequences are used for qualitative tests and robustness tests (smoke or low-light).
 
