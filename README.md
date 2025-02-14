@@ -11,6 +11,8 @@ https://github.com/MMOCKING/RIDERS/assets/61079012/880ed67b-4fe1-4452-af91-e4f20
 Download link: [ZJU-Multispectrum](https://pan.baidu.com/s/1TGPGjX8XtQf1CyKMqU2v_w?pwd=1897).
 Code for extracting netdisk data if needed: 1897
 
+Download link (APRIL LAB): [ZJU-Multispectrum](http://gofile.me/5oQXF/eaDrbYcaV).
+
 ```
 ZJU-Multispectrum
 ├── [sequence names]
